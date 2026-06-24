@@ -1,8 +1,6 @@
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=1F3864&height=180&section=header&text=Arham%20Abro&fontSize=50&fontColor=ffffff&animation=fadeIn)
 <div align="center">
-
 [![Typing](https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&pause=1000&color=EF4444&center=true&vCenter=true&width=600&lines=Security+Researcher+%26+Builder;Full+Stack+Web+Developer;Automation+%26+AI+Enthusiast;Always+learning+something+new+%F0%9F%9A%80)](https://git.io/typing-svg)
-
 </div>
 
 ---
